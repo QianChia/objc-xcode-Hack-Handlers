@@ -20,7 +20,7 @@
 import os, sys, re, fnmatch, os.path
 
 #TODO: change the path to your xcode project path
-GLOBAL_PROJECT_PATH     = '/Users/yanghua/Desktop/testOBJCFormatter/FastEasyBlog'
+GLOBAL_PROJECT_PATH     = '/Users/yanghua/Desktop/weiboDemo'
 
 
 #match method pattern
@@ -43,7 +43,7 @@ GLOBAL_FILEPATH_LIST    = []
 #want to match 
 GLOBAL_INCLUDE = ['*.h', '*.m']
 #want to exclude               
-GLOBAL_EXCLUDE = ['*Global.h','*Global.m'] 
+GLOBAL_EXCLUDE = [] 
 
 GLOBAL_INCLUDE = r'|'.join([fnmatch.translate(x) for x in GLOBAL_INCLUDE])
 GLOBAL_EXCLUDE = r'|'.join([fnmatch.translate(x) for x in GLOBAL_EXCLUDE]) or r'$.'
