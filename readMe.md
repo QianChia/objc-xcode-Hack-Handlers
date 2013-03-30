@@ -104,9 +104,9 @@ step three:
 ![img3][3]
 
 
-[1]:http://img.my.csdn.net/uploads/201303/30/1364629799_9652.png.thumb.jpg
-[2]:http://img.my.csdn.net/uploads/201303/30/1364629810_8739.png.thumb.jpg
-[3]:http://img.my.csdn.net/uploads/201303/30/1364629829_3508.png.thumb.jpg
+[1]:http://img.my.csdn.net/uploads/201303/30/1364629799_9652.png
+[2]:http://img.my.csdn.net/uploads/201303/30/1364629810_8739.png
+[3]:http://img.my.csdn.net/uploads/201303/30/1364629829_3508.png
 
 ## more handlers
 > I will make more hack handlers and if you have good ideas you can fork it or contact with me! 
